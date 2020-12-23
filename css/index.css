@@ -1,0 +1,481 @@
+    body {
+        color: #666666;
+        background: #ffffff;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-weight: 100;
+    }
+    
+    .top-header {
+        width: 100%;
+        height: 600px;
+        background-image: url(..//images/Group\ 10\ Copy.png)!important;
+        background-repeat: no-repeat;
+        background-size: auto;
+        clip-path: polygon(100% 0, 100% 95%, 0 100%, 0 0);
+        position: relative;
+    }
+    
+    a.navbar-brand {
+        font-size: 27px;
+        font-weight: 800;
+    }
+    
+    .navbar-light .navbar-toggler {
+        background-color: #ffffff;
+    }
+    
+    .sub-header h1 {
+        font-size: 50px;
+        font-weight: 100;
+    }
+    
+    .sub-header p {
+        font-size: 18px;
+    }
+    
+    .access h3 {
+        color: black;
+        font-size: 30px;
+        font-weight: 100;
+    }
+    
+    .access {
+        position: relative;
+        text-align: center;
+        padding: 30px 0;
+    }
+    
+    .access-info {
+        background-image: linear-gradient(#eff3fe, white);
+        margin-bottom: 60px;
+    }
+    
+    .get_access-heading {
+        margin-bottom: 15px;
+    }
+    
+    .access .access-info p {
+        font-size: 16px;
+    }
+    
+    .loan-against-invoice p {
+        font-size: 16px;
+    }
+    
+    .image-full {
+        background-image: url('..//images/landingim1.png');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    
+    .image-full1 {
+        background-image: url('..//images/landingim2.png');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    
+    .image-full2 {
+        background-image: url('..//images/Group\ 67.png');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 297px!important;
+    }
+    
+    .image-full3 {
+        background-image: url('..//images/Group\ 36.png');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height: 297px!important;
+    }
+    
+    .rectangle {
+        background-image: url(..//images/background.png);
+        /* clip-path: polygon(100% 0%, 100% 90%, 0 100%, 0 10%);
+    background-color: #dee6f9; */
+    }
+    
+    .loan-against-invoice {
+        padding: 45px 0 15px 0;
+    }
+    
+    .arrange-funds {
+        padding: 45px 0 15px 0;
+    }
+    
+    .dark {
+        background-color: #091e49;
+        clip-path: polygon(100% 20%, 100% 100%, 0 99%, 0 0);
+        background-size: 100% 100%;
+    }
+    
+    .Collateral p {
+        font-size: 16px;
+    }
+    
+    .invoice-raise p {
+        font-size: 18px;
+    }
+    
+    .in-voice {
+        margin-left: 30%;
+        margin-top: 25%;
+    }
+    
+    .testimonial {
+        padding: 45px 0 15px 0;
+    }
+    
+    .help {
+        padding: 45px 0 15px 0;
+    }
+    
+    .slider-bg {
+        background-color: #f9fafe!important;
+    }
+    
+    .carousel-control-next-icon {
+        background-image: url(..//images/Arrow\ 2.png)!important;
+        padding: 30px!important;
+    }
+    
+    .carousel-control-prev-icon {
+        background-image: url(..//images/Arrow\ 1.png)!important;
+        padding: 30px!important;
+    }
+    
+    .footer {
+        position: relative;
+        margin-top: 45px;
+        padding-top: 20%;
+        background-image: linear-gradient(to right, #091e4b, #2f308d);
+        color: #ffffff;
+        font-weight: 300;
+        clip-path: polygon(100% 7%, 100% 100%, 0 100%, 0% 35%);
+    }
+    
+    .footer .footer-form input {
+        height: 45px;
+        font-size: 14px;
+        border: none;
+        border-radius: 5px;
+    }
+    
+    .footer .footer-form .btn {
+        position: absolute;
+        right: 5px;
+        bottom: 5px;
+        font-size: 14px;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: #000000;
+        background: #FFD662;
+        border-radius: 5px;
+        transition: .3s;
+    }
+    
+    .footer .footer-form .btn:hover {
+        color: #ffffff;
+        background: #00539C;
+    }
+    
+    .footer .footer-menu {
+        position: relative;
+        padding: 15px 0;
+        border-top: 1px solid rgba(255, 255, 255, .1);
+    }
+    
+    .footer .footer-menu .f-menu {
+        font-size: 0;
+        text-align: center;
+    }
+    
+    .footer .footer-menu .f-menu a {
+        color: #ffffff;
+        font-size: 14px;
+        margin-right: 15px;
+        padding-right: 15px;
+        border-right: 1px solid #ffffff;
+    }
+    
+    .footer .footer-menu .f-menu a:hover {
+        color: #FFD662;
+    }
+    
+    .footer .footer-menu .f-menu a:last-child {
+        margin-right: 0;
+        padding-right: 0;
+        border-right: none;
+    }
+    
+    .footer .copyright {
+        padding: 15px 7px;
+        border-top: 1px solid rgba(255, 255, 255, .1);
+    }
+    
+    .c {
+        background-color: #051431;
+    }
+    
+    .dot {
+        color: #091e49;
+    }
+    
+    .footer .copyright p {
+        margin: 0;
+        font-size: 14px;
+    }
+    
+    .footer .copyright .col-md-6:last-child p {
+        text-align: right;
+    }
+    
+    .footer .copyright p a {
+        color: #FFD662;
+        font-weight: 400;
+    }
+    
+    .footer .copyright p a:hover {
+        color: #ffffff;
+    }
+    
+    .mobile-footer-top p {
+        text-align: initial;
+    }
+    
+    .footer-link h3 {
+        text-align: initial;
+    }
+    
+    .bg-hover:hover {
+        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+        transform: translateY(-30px);
+        background: #fff;
+        z-index: 1;
+    }
+    
+    .aline {
+        height: 91%;
+    }
+    
+    .why-choose-image {
+        padding-top: 20%;
+    }
+    /* .....media.. */
+    
+    @media (min-width: 576px) {
+        .quick {
+            margin-left: 38%;
+        }
+        .quick-heading {
+            font-size: 24px;
+        }
+        .quick-para {
+            font-size: 14px;
+        }
+        .image-full1 {
+            margin-top: 20px;
+        }
+        .image-full3 {
+            margin-top: 20px;
+        }
+        .invoice-tab h3 {
+            font-size: 20px;
+        }
+        .invoice-tab p {
+            font-size: 14px;
+        }
+        .mobile-footer-top {
+            padding-top: 34%!important;
+            text-align: center;
+        }
+        .mobile-footer-top p {
+            text-align: center;
+        }
+        .footer-link h3 {
+            text-align: center;
+        }
+    }
+    
+    @media (max-width: 575.98px) {
+        .sub-header {
+            margin: 0 auto;
+        }
+        .sub-header h1 {
+            font-size: 40px;
+            font-weight: 100;
+        }
+        .quick {
+            margin-left: 35%;
+        }
+        .quick-heading {
+            font-size: 14px;
+        }
+        .quick-para {
+            font-size: 14px;
+        }
+        .image-full1 {
+            margin-top: 20px;
+        }
+        .image-full3 {
+            margin-top: 20px;
+        }
+        .mobile-break {
+            display: none;
+        }
+        .dark {
+            clip-path: polygon(100% 7%, 100% 100%, 0 99%, 0 0);
+        }
+        .why-choose {
+            padding-top: 127px
+        }
+        .image-mobile-center {
+            text-align: center;
+        }
+        .invoice-raise {
+            text-align: center;
+        }
+        .mobile-footer-all {
+            text-align: center;
+        }
+        .mobile-footer-top {
+            padding-top: 70%;
+            text-align: center;
+        }
+        .mobile-footer-top p {
+            text-align: center;
+        }
+        .footer-link h3 {
+            text-align: center;
+        }
+    }
+    
+    @media (max-width: 767.98px) {
+        .top-header {
+            width: 100%;
+            height: 700px;
+            background-image: url(..//images/Group\ 10\ Copy.png)!important;
+            background-repeat: no-repeat;
+            background-size: auto;
+            clip-path: polygon(100% 0, 100% 95%, 0 100%, 0 0);
+            position: relative;
+        }
+        a.navbar-brand {
+            font-size: 25px;
+            font-weight: 800;
+        }
+        .sub-header h1 {
+            font-size: 40px;
+            font-weight: 100;
+        }
+    }
+    
+    @media (min-width: 768px) {
+        .top-header {
+            background-size: 100% 100%;
+            height: 720px;
+        }
+        .quick {
+            margin-left: 8%;
+        }
+        .quick-heading {
+            font-size: 15px;
+        }
+        .quick-para {
+            font-size: 13px;
+        }
+        .why-choose-bill-cash {
+            padding-top: 23%;
+        }
+        .invoice-tab {
+            padding-top: 0!important;
+        }
+        .invoice-tab-m h3 {
+            font-size: 20px;
+        }
+        .invoice-tab-m p {
+            font-size: 14px;
+        }
+        .mobile-footer-top {
+            padding-top: 10%!important;
+            text-align: center;
+        }
+        .mobile-footer-top p {
+            text-align: initial;
+        }
+        .footer-link h3 {
+            text-align: initial;
+        }
+        .why-choose-image {
+            padding-top: 65%;
+        }
+    }
+    
+    @media (min-width: 992px) {
+        .quick {
+            margin-left: 8%;
+        }
+        .quick-heading {
+            font-size: 20px;
+        }
+        .quick-para {
+            font-size: 18px;
+        }
+        .why-choose-bill-cash {
+            padding-top: 5%;
+        }
+        .invoice-image {
+            margin-left: 30px;
+        }
+        .invoice-tab h3 {
+            font-size: 25px;
+        }
+        .invoice-tab p {
+            font-size: 18px;
+        }
+        .mobile-footer-top {
+            padding-top: 0%!important;
+            text-align: center;
+        }
+        .why-choose-image {
+            padding-top: 45%;
+        }
+    }
+    
+    @media (min-width: 1200px) {
+        .quick {
+            margin-left: 8%;
+        }
+        .quick-heading {
+            font-size: 20px;
+        }
+        .quick-para {
+            font-size: 18px;
+        }
+        .why-choose-bill-cash {
+            padding-top: 5%;
+        }
+        .invoice-image {
+            margin-left: 60px;
+        }
+        .invoice-tab h3 {
+            font-size: 25px;
+        }
+        .invoice-tab p {
+            font-size: 18px;
+        }
+        .mobile-footer-top {
+            padding-top: 0%!important;
+            text-align: center;
+        }
+        .why-choose-image {
+            padding-top: 20%;
+        }
+    }
